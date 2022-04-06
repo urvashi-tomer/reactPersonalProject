@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactPersonalProject/static/css/main.7eb48383.css",
+    "main.js": "/reactPersonalProject/static/js/main.18be5cec.js",
+    "static/js/787.2a767361.chunk.js": "/reactPersonalProject/static/js/787.2a767361.chunk.js",
+    "static/media/CoCom_banner.jpg": "/reactPersonalProject/static/media/CoCom_banner.60de4fa4ffc473525e3e.jpg",
+    "static/media/implement-company-values.png": "/reactPersonalProject/static/media/implement-company-values.d28841f13ad2a30558ca.png",
+    "static/media/Business_immigration_banner_4.jpg": "/reactPersonalProject/static/media/Business_immigration_banner_4.aa363095868b9d8b162f.jpg",
+    "static/media/customer-service-vector.png": "/reactPersonalProject/static/media/customer-service-vector.86effc0516df14c09a81.png",
+    "index.html": "/reactPersonalProject/index.html",
+    "main.7eb48383.css.map": "/reactPersonalProject/static/css/main.7eb48383.css.map",
+    "main.18be5cec.js.map": "/reactPersonalProject/static/js/main.18be5cec.js.map",
+    "787.2a767361.chunk.js.map": "/reactPersonalProject/static/js/787.2a767361.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eb48383.css",
+    "static/js/main.18be5cec.js"
+  ]
+}
