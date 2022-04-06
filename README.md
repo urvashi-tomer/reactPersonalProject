@@ -1,4 +1,4 @@
-Simple working template (professional) for a company's website.
+A template for a company's website (professional).
 
 # Getting Started with Create React App
 
